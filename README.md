@@ -1,3 +1,6 @@
+# Talks
+Talks and other presentations not included here can be found at: https://sites.udel.edu/jmschneider/research/
+
 # Presentations
 Below are citations for the selected presentations included in the current repository. For questions, comments and/or concerns, please raise an issue.
 
