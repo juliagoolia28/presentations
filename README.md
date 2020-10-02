@@ -21,3 +21,6 @@ Schneider, J.M. & Maguire, M.J. (2018). The poor do poorer: how coming from a lo
 
 ## SRCD 2019
 Schneider, J.M. & Maguire, M.J. (2019). Word Learning and Brain Maturation Contribute to Vocabulary Variability Amongst low SES Children. In J.M. Schneider (Chair) The Neural Basis of Word Learning. Symposium conducted at the Biennial meeting for the Society of Research in Child Development, Baltimore, MD.
+
+## MPAL 2020
+Schneider, J.M., Abel, A.D. & Maguire, M.J. (2020). Reading ability as a protective factor for word learning among school-aged low socioeconomic status children. Presentation for the Many Paths to Language Conference, Max Planck Institute of Psycholinguistics, Nijmegen, The Netherlands.
