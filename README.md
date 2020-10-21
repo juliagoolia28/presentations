@@ -4,6 +4,9 @@ Talks and other presentations not included here can be found at: https://sites.u
 # Presentations
 Below are citations for the selected presentations included in the current repository. For questions, comments and/or concerns, please raise an issue.
 
+## NOL 2020
+Momsen, J., Schneider, J.M., & Abel, A.D. (2020). Developmental differences in neural oscillations supporting the identification of novel word meaning from context. Poster for the Neurobiology of Language Conference, virtual.
+
 ## OHBM 2020
 Schneider, J.M., Legault, J.L., & Qi, Z. (2020). Brain activation during statistical learning predicts adults’ vocabulary. Poster accepted to the Organization for Human Brain Mapping Conference, Montreal, Canada.
 
