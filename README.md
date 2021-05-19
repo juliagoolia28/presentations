@@ -1,11 +1,14 @@
 # Talks
 Talks and other presentations not included here can be found at: https://sites.udel.edu/jmschneider/research/
 
-# Presentations
-Below are citations for the selected presentations included in the current repository. For questions, comments and/or concerns, please raise an issue.
-
 ## SRCD 2021
 **Schneider, J.M.**, Abel, A.D. & Maguire, M.J. (2021). Individual learner abilities differentially influence word learning success on the basis of socioeconomic status during the school years. In **J.M. Schneider (Chair)** Maximizing word learning outcomes in school-aged children. Symposium conducted at the Biennial meeting for the Society of Research in Child Development, virtual.
+
+## SRCD 2019
+**Schneider, J.M.** & Maguire, M.J. (2019). Word Learning and Brain Maturation Contribute to Vocabulary Variability Amongst low SES Children. In J.M. Schneider (Chair) The Neural Basis of Word Learning. Symposium conducted at the Biennial meeting for the Society of Research in Child Development, Baltimore, MD.
+
+# Presentations
+Below are citations for the selected presentations included in the current repository. For questions, comments and/or concerns, please raise an issue.
 
 ## BUCLD 2020
 Weng, Y., **Schneider, J.M**, & Qi, Z. (2020). Neural sensitivity to local and global distributional information in speech changes as a function of development. Abstract submitted to the Boston University Conference on Language Development, Boston, MA.
@@ -15,6 +18,9 @@ Momsen, J., **Schneider, J.M.**, & Abel, A.D. (2020). Developmental differences 
 
 ## OHBM 2020
 **Schneider, J.M.**, Legault, J.L., & Qi, Z. (2020). Brain activation during statistical learning predicts adults’ vocabulary. Poster accepted to the Organization for Human Brain Mapping Conference, Montreal, Canada.
+
+## MPAL 2020
+**Schneider, J.M.**, Abel, A.D. & Maguire, M.J. (2020). Reading ability as a protective factor for word learning among school-aged low socioeconomic status children. Presentation for the Many Paths to Language Conference, Max Planck Institute of Psycholinguistics, Nijmegen, The Netherlands.
 
 ## NOL 2019
 **Schneider, J.M.**, Weng, Y.L., Kozloff, V., Nguyen, A., & Qi, Z. (2019). Neural sensitivity to speech distributional information underlies statistical learning. Poster for the Neurobiology of Language Conference, Helsinki, Finland.
@@ -28,8 +34,3 @@ Momsen, J., **Schneider, J.M.**, & Abel, A.D. (2020). Developmental differences 
 ## FLUX 2018
 **Schneider, J.M.** & Maguire, M.J. (2018). The poor do poorer: how coming from a low-income home impacts brain and language development. Poster for the FLUX Society Conference, Berlin, Germany.
 
-## SRCD 2019
-**Schneider, J.M.** & Maguire, M.J. (2019). Word Learning and Brain Maturation Contribute to Vocabulary Variability Amongst low SES Children. In J.M. Schneider (Chair) The Neural Basis of Word Learning. Symposium conducted at the Biennial meeting for the Society of Research in Child Development, Baltimore, MD.
-
-## MPAL 2020
-**Schneider, J.M.**, Abel, A.D. & Maguire, M.J. (2020). Reading ability as a protective factor for word learning among school-aged low socioeconomic status children. Presentation for the Many Paths to Language Conference, Max Planck Institute of Psycholinguistics, Nijmegen, The Netherlands.
